@@ -5,6 +5,10 @@ ul, ol{
     padding: 0;
 }
 
+h1, h2, h3{
+    font-family: 'Raleway', sans-serif;
+}
+
 /* Navbar styles */
 .terms.header{
     padding: 40px 70px;
